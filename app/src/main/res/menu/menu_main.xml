@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ltu.m7019e.m7019e_moviedbapp.MainActivity">
+    <item
+        android:id="@+id/action_load_popular_movies"
+        android:title="@string/action_load_popular_movies"/>
+    <item
+        android:id="@+id/action_load_top_rated_movies"
+        android:title="@string/action_load_top_rated_movies"/>
+</menu>
